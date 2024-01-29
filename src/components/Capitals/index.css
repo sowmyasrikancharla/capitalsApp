@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.main-con {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.sub-con {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  height: 45vh;
+  width: 51%;
+}
+.head {
+  color: #323f4b;
+  font-size: 30px;
+  text-align: center;
+}
+.answer {
+  color: #1e293b;
+  font-size: 22px;
+  font-weight: bold;
+}
+.que {
+  color: #323f4b;
+  font-size: 20px;
+  margin-left: 5px;
+}
+.opt {
+  color: #323f4b;
+  font-size: 16px;
+}
